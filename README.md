@@ -2,9 +2,9 @@
 
 <p align="left"> 
  Olá, meu nome é Diocelio, atualmente estou estudando <strong>Desenvolvimento Web</strong>.<br>
-  Estou trabalhando no meu novo projeto:<strong> Flex Support</strong>.
+  Estou trabalhando no meu novo projeto:<strong> Gear Up</strong>.
   Clique no link para saber um pouco mais:
-  <a href="#"><p>Flex Support</p></a>
+  <a href="#"><p>Gear Up</p></a>
 </p>
 
 <p align="left">
