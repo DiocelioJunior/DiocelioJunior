@@ -8,11 +8,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML5 | CSS3 |.</strong>
+  🦄 Linguagens: <strong>HTML5 | CSS3 |  JavaScript .</strong>
 </p>
 
 <p align="left">
-  📑 Estudando: <strong>BootStrap| JavaScript | React |.</strong>
+  📑 Estudando: <strong>BootStrap| React |.</strong>
 </p>
 
 <p align="left">
