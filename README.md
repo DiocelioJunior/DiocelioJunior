@@ -4,15 +4,15 @@
  Olá, meu nome é Diocelio, atualmente estou estudando <strong>Desenvolvimento Web</strong>.<br>
   Estou trabalhando no meu novo projeto:<strong> Gear Up</strong>.
   Clique no link para saber um pouco mais:
-  <a href="#"><p>Gear Up</p></a>
+  <a href="#"><p>Line Up</p></a>
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML5 | CSS3 |  JavaScript .</strong>
+  🦄 Linguagens: <strong>HTML5 | CSS3 |  JavaScript | Node.Js | BootStrap.</strong>
 </p>
 
 <p align="left">
-  📑 Estudando: <strong>BootStrap| React |.</strong>
+  📑 Estudando: <strong> PHP.</strong>
 </p>
 
 <p align="left">
