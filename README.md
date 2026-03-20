@@ -1,33 +1,71 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-<h3 align="left">👋 Olá, eu sou o Diocelio</h3>
+<h1 align="left">👋 Olá, eu sou o Diocelio</h1>
 
 <p align="left">
-🚀 Desenvolvedor em formação, focado em <strong>Desenvolvimento Web</strong> e na construção de soluções práticas para problemas reais.
-</p>
-
-<p align="left">
-💡 Atualmente estou desenvolvendo o <strong>Line UP</strong>, um sistema voltado para <strong>criação, tratamento e padronização de templates DTF</strong>, com foco em automação, organização e ganho de produtividade.
-</p>
-
-<p align="left">
-🎯 Meu objetivo é evoluir como desenvolvedor, com foco em back-end e na criação de aplicações completas, eficientes e escaláveis.
+Desenvolvedor Web em formação, focado na criação de sistemas reais, com ênfase em <strong>back-end</strong>, automação de processos e organização de aplicações.
 </p>
 
 ---
 
-### 🧠 Tecnologias
+### 🚀 Projeto em destaque
 
 <p align="left">
-💻 <strong>Linguagens:</strong> HTML5 • CSS3 • JavaScript • Node.js • Bootstrap
+<strong>Line UP</strong>
 </p>
 
 <p align="left">
-📚 <strong>Atualmente estudando:</strong> PHP e aprofundando conceitos de back-end
+Sistema desenvolvido para <strong>criação, tratamento e padronização de templates DTF</strong>, com foco em automação e produtividade.
 </p>
 
 <p align="left">
-🛠 <strong>Ferramentas:</strong> VS Code • Git • GitHub
+📌 Objetivos do sistema:
+<ul>
+<li>Padronizar templates para impressão DTF</li>
+<li>Automatizar processos repetitivos</li>
+<li>Organizar fluxos de produção</li>
+</ul>
+</p>
+
+<p align="left">
+🔗 <a href="#"><strong>Acessar projeto</strong></a>
+</p>
+
+---
+
+### 🧠 Stack Tecnológica
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+</p>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Estudando-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+
+</p>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=dioceliojr&show_icons=true&theme=tokyonight" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dioceliojr&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -35,17 +73,15 @@
 ### 📬 Contato
 
 <p align="left">
-Aberto a conexões, colaborações e oportunidades para evoluir como desenvolvedor:
-</p>
 
-<p align="left">
 <a href="https://www.linkedin.com/in/dioceliojr/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/diowritos/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+
 </p>
 
 ---
@@ -53,13 +89,13 @@ Aberto a conexões, colaborações e oportunidades para evoluir como desenvolved
 ### ⚡ Sobre mim
 
 <p align="left">
-Sou movido por aprendizado constante e pela prática. Gosto de transformar ideias em sistemas reais, desde a estrutura até a implementação final.
+Tenho como foco a evolução constante através da prática, desenvolvendo sistemas que resolvem problemas reais.
 </p>
 
 <p align="left">
-💻 Atualmente focado no desenvolvimento de soluções como o <strong>Line UP</strong>, buscando melhorar processos e criar ferramentas úteis no dia a dia.
+Atualmente estou aprofundando meus conhecimentos em <strong>back-end</strong>, buscando construir aplicações completas, organizadas e escaláveis.
 </p>
 
 <p align="left">
-🔥 Sempre evoluindo em boas práticas, organização de código e performance.
+💡 Interesses: APIs • Automação • Estruturação de sistemas • Performance
 </p>
