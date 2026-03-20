@@ -59,17 +59,6 @@ Sistema desenvolvido para <strong>criação, tratamento e padronização de temp
 
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=dioceliojr&show_icons=true&theme=tokyonight" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dioceliojr&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 📬 Contato
 
 <p align="left">
