@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-
 <h1 align="left">👋 Olá, eu sou o Diocelio</h1>
 
 <p align="left">
@@ -25,10 +23,6 @@ Sistema desenvolvido para <strong>criação, tratamento e padronização de temp
 <li>Automatizar processos repetitivos</li>
 <li>Organizar fluxos de produção</li>
 </ul>
-</p>
-
-<p align="left">
-🔗 <a href="#"><strong>Acessar projeto</strong></a>
 </p>
 
 ---
