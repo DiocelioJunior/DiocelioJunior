@@ -58,36 +58,6 @@ O projeto nasceu de uma necessidade real e evoluiu para uma ferramenta voltada a
 
 ---
 
-## 📊 Nexo
-
-### Projeto em desenvolvimento
-
-O **Nexo** é uma plataforma de inteligência comercial criada para auxiliar na identificação e acompanhamento de oportunidades para operações de e-commerce.
-
-O sistema reúne informações de diferentes fontes e organiza dados relacionados a mercado, tendências, produtos e desempenho da própria operação.
-
-### Algumas funcionalidades
-
-* 🔎 Pesquisa de mercado
-* 📈 Monitoramento de tendências
-* 🛒 Monitoramento de produtos
-* 🎯 Central de oportunidades
-* 📊 Score comercial
-* 📅 Calendário e tarefas
-* 💡 Organização de ideias e referências
-* 🏪 Monitoramento de contas da Shopee através de relatórios XLSX
-* 📉 Histórico de vendas, tráfego e conversão
-* ⚠️ Alertas automáticos de desempenho
-* 💾 Backup e histórico de dados
-
-O objetivo do projeto é transformar dados dispersos em informações mais fáceis de analisar e utilizar na tomada de decisões.
-
-### Tecnologias e conceitos
-
-`JavaScript` `Node.js` `Electron` `SQLite` `Express` `WebSocket` `XLSX` `APIs`
-
----
-
 ## 🥗 Gestor pessoal de dieta
 
 ### Projeto pessoal
